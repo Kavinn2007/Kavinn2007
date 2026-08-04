@@ -86,3 +86,33 @@ open_to:
 ![](https://capsule-render.vercel.app/api?type=waving\&section=footer\&height=140\&color=0:2563eb,45:6d28d9,100:0f172a)
 
 </div>
+## Featured Projects
+
+### 🌾 Agro AI
+
+AI-powered smart farming platform that helps farmers identify crop diseases and monitor environmental conditions using real-time inputs.
+
+**Features**
+
+* Crop disease detection from images
+* Temperature and humidity monitoring
+* Location-based farming recommendations
+* Responsive web interface
+* Real-time agricultural assistance
+
+**Tech Stack:** React · JavaScript · Vercel · AI Integration
+
+🔗 **Repository:** https://github.com/Kavinn2007/Agro-AI
+
+---
+
+### 🚗 Project COMPASS
+
+UI/UX product design project for an EV charging mobile application developed during my **Zidio Development internship**.
+
+---
+
+### ☕ Project Keystone
+
+Complete Java project built using **Object-Oriented Programming principles** and modular software architecture.
+
