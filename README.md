@@ -86,3 +86,10 @@ open_to:
 ![](https://capsule-render.vercel.app/api?type=waving\&section=footer\&height=140\&color=0:2563eb,45:6d28d9,100:0f172a)
 
 </div>
+---
+
+## 📊 GitHub Stats
+
+![Kavin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavinn2007&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinn2007&layout=compact&theme=tokyonight)
