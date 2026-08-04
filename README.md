@@ -1,118 +1,162 @@
-# <div align="center">
+# Hi there 👋 I'm Kavin P
 
-![](https://capsule-render.vercel.app/api?type=waving\&height=230\&text=Kavin%20P\&fontAlign=50\&fontAlignY=38\&color=0:0f172a,35:312e81,65:6d28d9,100:2563eb\&fontColor=ffffff\&fontSize=42\&desc=AI%20Developer%20%7C%20UI%2FUX%20Designer%20%7C%20Java%20Developer\&descAlign=50\&descAlignY=58)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter\&weight=600\&size=24\&duration=2800\&pause=900\&color=A78BFA\&center=true\&vCenter=true\&width=900\&lines=III+Year+ECE+Student;AI+Developer;UI%2FUX+Product+Designer;Java+Application+Developer;Building+Real-World+Tech+Solutions)](https://git.io/typing-svg)
-
-![](https://img.shields.io/badge/B.E.%20ECE-V.S.B%20Engineering%20College-111827?style=for-the-badge\&logo=academia\&logoColor=white)
-![](https://img.shields.io/badge/Karur-Tamil%20Nadu-1f2937?style=for-the-badge\&logo=googlemaps\&logoColor=white)
-
-</div>
+### ECE Undergraduate | AI & Computer Vision Enthusiast | UI/UX Product Designer
 
 ---
 
-## About Me
+## 🚀 About Me
 
-I’m **Kavin P**, a **III Year Electronics and Communication Engineering student** passionate about **Artificial Intelligence, UI/UX Product Design, Full Stack Development, and Java Application Development**.
-
-### Featured Projects
-
-* **Agro AI** — AI-powered smart farming assistant with crop disease detection and environmental monitoring.
-* **Project COMPASS** — Complete UI/UX product design project for an EV charging mobile application developed during my **Zidio Development internship**.
-* **Project Keystone** — Complete **Java project** demonstrating object-oriented programming, modular architecture, and practical software engineering concepts.
+- 🎓 **B.E. Electronics & Communication Engineering**
+- 🏫 **V.S.B Engineering College, Karur**
+- 🤖 Passionate about **AI, Computer Vision, Embedded Systems, and UI/UX Design**
+- 🌱 Currently learning **Data Structures & Algorithms, Advanced Python, and Embedded AI**
+- 💡 Interested in building **technology-driven solutions for real-world problems**
 
 ---
 
-## Tech Stack
+## 🔗 Connect With Me
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,figma,git,github,vscode" />
-</p>
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Kavinn2007&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinn2007&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
-
-</div>
+- 📧 **Email:** nrpkavin@gmail.com
+- 💼 **LinkedIn:** https://linkedin.com/in/kavin-padmanaban-4b8578332
+- 💻 **GitHub:** https://github.com/Kavinn2007
 
 ---
 
-## Current Focus
+## 🛠️ Tech Stack
+
+### Languages
+- Python
+- C
+- Java
+
+### Tools & Platforms
+- VS Code
+- Git & GitHub
+- Figma
+- Prompt Engineering Tools
+
+### Technical Areas
+- Computer Vision
+- Embedded Systems
+- Hardware Design
+- Computer Networks
+- Problem Solving
+
+---
+
+## 📂 Featured Projects
+
+### 🌾 Agro AI — Plant & Soil Monitoring System
+
+🔗 https://github.com/Kavinn2007/Agro-AI
+
+- AI-powered smart agriculture monitoring system
+- Uses **Computer Vision** to detect plant diseases and analyze crop health
+- Built with **Python and image-processing techniques**
+- Focused on **early problem detection and improving crop productivity**
+
+---
+
+### ⚡ Project COMPASS — EV Charging Mobile Application
+
+🔗 https://github.com/iamvijayvarma/Project-COMPASS-EV-Charging-Mobile-Application
+
+- Mobile-first **EV charging application**
+- Features **trip planning, live navigation, charging session tracking, wallet management, and admin dashboard**
+- Designed with **Figma** using **modern UI/UX principles**
+
+---
+
+### 🎮 Gamified Learning Platform
+
+🔗 https://github.com/Kavinn2007/Gamified-learnig-platform
+
+- Interactive learning platform designed to make education **engaging and accessible for rural students**
+- Includes **puzzle-based and gamified activities** to improve learning motivation
+
+---
+
+## 💼 Experience
+
+### Telecom Engineer Intern — BSNL
+📅 **Jun 2025 – Jul 2025**
+
+- Studied telecom infrastructure, switching systems, and communication networks
+- Observed real-time **signal transmission and frequency management operations**
+- Gained practical exposure to **networking and telecommunication workflows**
+
+---
+
+### UI/UX Web Developer Intern — Zidio Development
+📅 **Jun 2026 – Jul 2026**
+
+- Designed **Project COMPASS** high-fidelity UI/UX prototypes
+- Worked on **responsive layouts, user flows, and modern design systems**
+- Applied **user-centered design and usability principles** in web and mobile interfaces
+
+---
+
+## 🏆 Achievements
+
+- 🚀 Participated in **India Innovates 2026**
+- 🧠 Received **Memory Verse AI Participation Certificate**
+- 🎨 Selected for **UI/UX Internship at Zidio Development**
+- 💻 Contributed to **open-source and personal development projects**
+- 🎤 Participated in **college technical events and hackathons**
+
+---
+
+## 📜 Certifications
+
+- 🐍 **Cisco Python Essentials**
+- 📘 **Infosys Springboard Certification**
+- 🎓 **NPTEL Certification**
+
+---
+
+## 💻 Coding Profiles
+
+- **LeetCode:** https://leetcode.com/u/kavinn07/
+- **HackerRank:** https://www.hackerrank.com/profile/nrpkavin
+
+---
+
+## 📊 GitHub Stats
+
+![Kavin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kavinn2007&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinn2007&layout=compact&theme=tokyonight)
+
+---
+
+## 🔥 Current Focus
 
 ```yaml
-learning:
-  - Advanced Java
-  - Full Stack Development
-  - AI Integration
-  - UI/UX Product Design
+Learning:
+  - Data Structures & Algorithms
+  - Advanced Python for AI Applications
+  - Embedded AI & Edge Computing
+  - UI/UX Design Systems and Accessibility
 
-building:
-  - Agro AI
-  - Project COMPASS
-  - Project Keystone
+Building:
+  - Agro AI - Smart Plant & Soil Monitoring System
+  - Gamified Learning Platform for Rural Education
+  - Interactive AI-powered Web Applications
 
-open_to:
-  - Hackathons
-  - Open Source Collaboration
-  - Internship Opportunities
-  - AI & Java Projects
+Exploring:
+  - Computer Vision for Agriculture
+  - AI-assisted Product Design Workflows
+  - Open-source Collaboration and Technical Documentation
+
+Open To:
+  - Software Development Internships
+  - UI/UX Product Design Opportunities
+  - AI & Computer Vision Projects
+  - Hackathons and Open-source Collaborations
 ```
 
 ---
 
-## Connect With Me
+## ✨ Quote
 
-<p align="center">
-  <a href="https://github.com/Kavinn2007">
-    <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-**"Building intelligent and user-centered technology solutions that create real-world impact."**
-
-![](https://capsule-render.vercel.app/api?type=waving\&section=footer\&height=140\&color=0:2563eb,45:6d28d9,100:0f172a)
-
-</div>
-## Featured Projects
-
-### 🌾 Agro AI
-
-AI-powered smart farming platform that helps farmers identify crop diseases and monitor environmental conditions using real-time inputs.
-
-**Features**
-
-* Crop disease detection from images
-* Temperature and humidity monitoring
-* Location-based farming recommendations
-* Responsive web interface
-* Real-time agricultural assistance
-
-**Tech Stack:** React · JavaScript · Vercel · AI Integration
-
-🔗 **Repository:** https://github.com/Kavinn2007/Agro-AI
-
----
-
-### 🚗 Project COMPASS
-
-UI/UX product design project for an EV charging mobile application developed during my **Zidio Development internship**.
-
----
-
-### ☕ Project Keystone
-
-Complete Java project built using **Object-Oriented Programming principles** and modular software architecture.
-
+> **Building intelligent and user-centered technology solutions that create real-world impact.**
