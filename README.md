@@ -1,7 +1,6 @@
 <div align="center">
 
-👋 Hi, I'm Kavin P
-III Year ECE Undergraduate • AI & Computer Vision Enthusiast • UI/UX Designer
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kavin%20P&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20UI%2FUX%20%7C%20Embedded%20Systems&descAlignY=58&descAlign=50" width="100%" alt="Kavin P profile header"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=ECE+Undergraduate;AI+%26+Computer+Vision+Enthusiast;UI%2FUX+Product+Designer;Embedded+Systems+Learner;Open+Source+Contributor" alt="Typing animation"/>
