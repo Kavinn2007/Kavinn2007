@@ -1,137 +1,95 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:a78bfa&height=210&section=header&text=Kavin%20P&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20UI%2FUX%20%7C%20Embedded%20Systems&descAlignY=60&descSize=18" width="100%" alt="Kavin P header"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Kavin%20P&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20%7C%20Computer%20Vision%20%7C%20UI%2FUX%20%7C%20Embedded%20Systems&descAlignY=58&descAlign=50" width="100%" alt="Kavin P profile header"/>
+<h2>III Year ECE Undergraduate</h2>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=ECE+Undergraduate;AI+%26+Computer+Vision+Enthusiast;UI%2FUX+Product+Designer;Embedded+Systems+Learner;Open+Source+Contributor" alt="Typing animation"/>
+<p>
+  <b>AI &nbsp;•&nbsp; Computer Vision &nbsp;•&nbsp; Full Stack Development &nbsp;•&nbsp; UI/UX &nbsp;•&nbsp; Embedded Systems</b>
+</p>
 
-
-
-
-<a href="https://linkedin.com/in/kavin-padmanaban-4b8578332">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="mailto:nrpkavin@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-<a href="https://leetcode.com/u/kavinn07/">
-  <img src="https://img.shields.io/badge/LeetCode-Solve-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-<a href="https://www.hackerrank.com/profile/nrpkavin">
-  <img src="https://img.shields.io/badge/HackerRank-Profile-6366F1?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
-</a>
+<p>
+  <a href="https://linkedin.com/in/kavin-padmanaban-4b8578332">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:nrpkavin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://leetcode.com/u/kavinn07/">
+    <img src="https://img.shields.io/badge/LeetCode-Profile-8B5CF6?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+  </a>
+  <a href="https://www.hackerrank.com/profile/nrpkavin">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-6366F1?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+  </a>
+</p>
 
 </div>
 
-🧬 About Me
-<img align="right" width="280" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Developer animation"/>
-
-name: Kavin P
-role: III Year ECE Undergraduate
-college: V.S.B Engineering College, Karur
-location: Karur, Tamil Nadu, India
-
-focus:
-  - Artificial Intelligence
-  - Computer Vision
-  - Embedded Systems
-  - Full Stack Development
-  - UI/UX Product Design
-
-mission: >
-  Building technology-driven solutions for real-world problems,
-  especially in agriculture, education, and smart mobility,
-  by combining AI, software engineering, and user-centered design.
-<br clear="right"/>
+👨‍💻 About Me
+I'm Kavin P, a III Year Electronics & Communication Engineering undergraduate at V.S.B Engineering College, Karur.
+I enjoy building practical technology solutions by combining Artificial Intelligence, Computer Vision, software development, embedded systems, and user-centered design.
+- 🎓 Education: Electronics & Communication Engineering
+- 🤖 Focus: AI, Computer Vision & Intelligent Applications
+- 💻 Development: Full Stack Web Applications
+- 🎨 Design: UI/UX & Product Design
+- 🔌 Interest: Embedded Systems & Edge AI
+- 🌱 Current domain: AI-powered solutions for real-world problems
+Building intelligent and user-centered technology solutions that create real-world impact.
 
 🛠️ Tech Stack
+<div align="center">
+
 Languages
- 
- 
- 
-Frontend
- 
- 
- 
- 
-Backend & Databases
- 
- 
- 
-AI / ML & Computer Vision
- 
- 
- 
- 
-Tools & Platforms
- 
- 
- 
- 
- 
+<img src="https://skillicons.dev/icons?i=python,c,java&theme=dark" alt="Python C Java"/>
+
+Web Development
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs&theme=dark" alt="HTML CSS JavaScript React Node.js"/>
+
+AI / Computer Vision
+<img src="https://skillicons.dev/icons?i=python,opencv&theme=dark" alt="Python OpenCV"/>
+
+
+<img src="https://img.shields.io/badge/NumPy-6D28D9?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-7C3AED?style=for-the-badge" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-8B5CF6?style=for-the-badge" alt="Prompt Engineering"/>
+
+Databases & Tools
+<img src="https://skillicons.dev/icons?i=mysql,firebase,git,github,vscode,figma,canva&theme=dark" alt="MySQL Firebase Git GitHub VS Code Figma Canva"/>
+
+</div>
+
 🚀 Featured Projects
-<details open>
-<summary><b>🌱 Agro AI — Plant & Soil Monitoring System</b></summary>
-
-
-An AI-powered smart agriculture monitoring system focused on plant disease detection, soil-quality analysis, and crop-health monitoring using computer vision and image processing.
-Category	Details
-Stack	Python, OpenCV, NumPy, Image Processing
-Focus	Plant disease and crop-health monitoring
-Approach	Computer vision and image-processing pipeline
-Impact	Supports early identification of plant-health problems
-Repository	Agro-AI
-
-
-</details>
-
-<details>
-<summary><b>⚡ Project COMPASS — EV Charging Mobile Application</b></summary>
-
-
-A mobile-first EV charging ecosystem designed around smart trip planning, navigation, charging-session monitoring, digital-wallet flows, and an admin experience, with an emphasis on accessible and consistent UI/UX.
-Category	Details
-Stack	Figma Make, UI/UX Prototyping, Design Systems
-Focus	EV charging user experience
-Approach	Mobile-first flows and high-fidelity prototyping
-Impact	User-centered and accessible EV charging experience
-Repository	Project COMPASS
-
-
-</details>
-
-<details>
-<summary><b>🎮 Gamified Learning Platform</b></summary>
-
-
-An interactive and lightweight learning platform for rural students featuring puzzle-based and gamified educational activities designed to encourage engagement and accessible learning.
-Category	Details
-Stack	Web Technologies, Gamification Design
-Focus	Rural education
-Approach	Lightweight and low-bandwidth-friendly learning experience
-Impact	Supports accessible and engaging educational activities
-Repository	Gamified-learning-platform
-
-
-</details>
-
+🌱 Agro AI — Plant & Soil Monitoring System
+AI-powered smart agriculture project focused on plant disease detection, soil-quality analysis, and crop-health monitoring using computer vision and image processing.
+Tech: Python OpenCV NumPy Image Processing
+🔗 Repository: Agro-AI
+⚡ Project COMPASS — EV Charging Mobile Application
+Mobile-first EV charging application concept focused on smart trip planning, navigation, charging-session monitoring, digital-wallet flows, and an accessible user experience.
+Tech: Figma Make UI/UX Prototyping Design Systems
+🔗 Repository: Project COMPASS
+🎮 Gamified Learning Platform
+Lightweight learning platform for rural students featuring puzzle-based and gamified educational activities designed to encourage engagement and accessible learning.
+Tech: Web Technologies Gamification UI/UX
+🔗 Repository: Gamified Learning Platform
 💼 Experience
 🎨 UI/UX Web Developer — Zidio Development
 Jun 2026 – Jul 2026
-- Designed and developed the UI/UX for Project COMPASS, an EV charging mobile application.
+- Designed the UI/UX for Project COMPASS, an EV charging mobile application.
 - Created user flows, wireframes, and interactive prototypes.
-- Applied responsive layouts and consistent design-system principles.
+- Applied responsive layouts and design-system principles.
 - Focused on usability, accessibility, and user experience.
-Figma Make UI/UX Design Prototyping Accessibility Design Systems
+Figma Make UI/UX Prototyping Accessibility
 📡 Telecom Engineer Intern — BSNL
 Jun 2025 – Jul 2025
 - Gained exposure to telecom infrastructure and networking systems.
 - Studied switching systems, routers, and communication towers.
 - Learned concepts related to signal transmission and frequency management.
-- Observed real-world telecom operations and infrastructure.
-Telecom Systems Networking Signal Transmission Switching Systems
+- Observed real-world telecom operations.
+Telecom Systems Networking Signal Transmission
 🏆 Achievements
-Recognition	Details
+<div align="center">
+
+🏅 Recognition	📌 Details
 India Innovates 2026	Participated in a national innovation and startup event
 Memory Verse AI	Participation Certificate
 Zidio Internship	Selected for UI/UX Web Development internship
@@ -139,77 +97,85 @@ Open Source Projects	Published and maintained personal GitHub repositories
 College Technical Events	Active participation in hackathons and technical activities
 
 
+</div>
+
 📜 Certifications
-Cisco
- 
-Infosys Springboard
- 
-NPTEL
- 
+<div align="center">
+
+<img src="https://img.shields.io/badge/Cisco-Python%20Essentials-6D28D9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Python Essentials"/>
+<img src="https://img.shields.io/badge/Infosys%20Springboard-AI%20%2F%20Python-7C3AED?style=for-the-badge" alt="Infosys Springboard AI Python"/>
+<img src="https://img.shields.io/badge/NPTEL-Technical%20Certification-8B5CF6?style=for-the-badge" alt="NPTEL Technical Certification"/>
+
+</div>
+
 💻 Coding Profiles
 <div align="center">
 
 <a href="https://leetcode.com/u/kavinn07/">
-  <img src="https://img.shields.io/badge/LeetCode-6D28D9?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/LeetCode-kavinn07-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
 </a>
 <a href="https://www.hackerrank.com/profile/nrpkavin">
-  <img src="https://img.shields.io/badge/HackerRank-7C3AED?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+<img src="https://img.shields.io/badge/HackerRank-nrpkavin-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
 </a>
 <a href="https://github.com/Kavinn2007">
-  <img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GitHub-Kavinn2007-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 </div>
 
-📊 GitHub Analytics
+📊 GitHub Statistics
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Kavinn2007&show_icons=true&theme=tokyonight&hide_border=true" width="49%" alt="Kavin's GitHub statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinn2007&layout=compact&theme=tokyonight&hide_border=true" width="49%" alt="Kavin's top languages"/>
+<a href="https://github.com/Kavinn2007">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Kavinn2007&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=8b5cf6&text_color=c9d1d9&rank_icon=github" alt="Kavin's GitHub Stats"/>
+</a>
+&nbsp;
+<a href="https://github.com/Kavinn2007">
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kavinn2007&layout=compact&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9" alt="Kavin's Most Used Languages"/>
+</a>
 
 
-<img src="https://streak-stats.demolab.com?user=Kavinn2007&theme=tokyonight&hide_border=true" width="70%" alt="Kavin's GitHub contribution streak"/>
+
+
+<img width="70%" src="https://streak-stats.demolab.com?user=Kavinn2007&hide_border=true&background=0D1117&ring=A78BFA&fire=8B5CF6&currStreakLabel=A78BFA&sideLabels=C9D1D9&dates=8B949E" alt="Kavin's GitHub Streak"/>
 
 </div>
 
-🏅 GitHub Trophies
+🏆 GitHub Trophies
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Kavinn2007&theme=tokyonight&no-frame=true&row=1&column=7" width="90%" alt="GitHub trophies"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Kavinn2007&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=6" width="90%" alt="GitHub Trophies"/>
 
 </div>
 
 📈 Contribution Activity
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavinn2007&theme=tokyo-night&hide_border=true" width="90%" alt="GitHub contribution activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kavinn2007&bg_color=0d1117&color=a78bfa&line=8b5cf6&point=c4b5fd&area=true&hide_border=true" width="92%" alt="GitHub Contribution Activity"/>
 
 </div>
 
 🐍 Contribution Snake
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kavinn2007/Kavinn2007/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub contribution snake animation"/>
+<img src="https://raw.githubusercontent.com/Kavinn2007/Kavinn2007/output/github-contribution-grid-snake-dark.svg" width="90%" alt="GitHub Contribution Snake"/>
 
 </div>
 
-Note: The contribution snake requires a separate GitHub Actions workflow in .github/workflows/ to generate the SVG on the output branch.
+If the snake image does not appear yet, the GitHub Actions workflow that generates it needs to be configured in .github/workflows/.
 
 🎯 Current Focus
-📚 Learning
-- Data Structures & Algorithms
-- Advanced Python for AI Applications
-- Embedded AI & Edge Computing
-- UI/UX Design Systems and Accessibility
-🔨 Building
-- Agro AI — Smart Plant & Soil Monitoring System
-- Gamified Learning Platform — Rural Education
-- Interactive AI-powered Web Applications
-🔭 Exploring
-- Computer Vision for Agriculture
-- AI-assisted Product Design Workflows
-- Open-source Collaboration
-- Technical Documentation
+<div align="center">
+
+📚 Learning	🔨 Building	🔭 Exploring
+Data Structures & Algorithms	Agro AI	Computer Vision for Agriculture
+Advanced Python for AI	Gamified Learning Platform	AI-assisted Product Design
+Embedded AI & Edge Computing	AI-powered Web Applications	Open-source Collaboration
+UI/UX Design Systems		Technical Documentation
+
+
+</div>
+
 🤝 Open To
 - Software Development Internships
 - UI/UX Product Design Opportunities
@@ -219,25 +185,18 @@ Note: The contribution snake requires a separate GitHub Actions workflow in .git
 <div align="center">
 
 <a href="mailto:nrpkavin@gmail.com">
-  <img src="https://img.shields.io/badge/-nrpkavin@gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+<img src="https://img.shields.io/badge/Email-nrpkavin%40gmail.com-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://linkedin.com/in/kavin-padmanaban-4b8578332">
-  <img src="https://img.shields.io/badge/-Kavin_Padmanaban-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LinkedIn-Kavin%20Padmanaban-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/Kavinn2007">
-  <img src="https://img.shields.io/badge/-Kavinn2007-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://leetcode.com/u/kavinn07/">
-  <img src="https://img.shields.io/badge/-kavinn07-4C1D95?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-</a>
-<a href="https://www.hackerrank.com/profile/nrpkavin">
-  <img src="https://img.shields.io/badge/-nrpkavin-6366F1?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/>
+<img src="https://img.shields.io/badge/GitHub-Kavinn2007-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
 
 
 
-"Building intelligent and user-centered technology solutions that create real-world impact."
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,50:6d28d9,100:a78bfa&height=120&section=footer" width="100%" alt="Profile footer"/>
+
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer" width="100%" alt="Profile footer"/>
